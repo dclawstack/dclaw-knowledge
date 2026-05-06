@@ -1,0 +1,4 @@
+DClaw Knowledge deployed!
+
+Frontend: http://dclaw-knowledge.local
+Backend API: http://dclaw-knowledge-backend:8139
